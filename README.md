@@ -50,9 +50,9 @@ Githubの右上付近にある[Code] ->[Download ZIP]より、ファイルをダ
 
 ## 使い方
 
-1. RecollectionModeMZ/js/plugins/RecollectionModeMZ.jsをダウンロードし、```ツクールプロジェクト/js/plugins/```に配置します
+1. [RecollectionModeMZ/js/plugins/RecollectionModeMZ.js](https://raw.githubusercontent.com/rinne-grid/tkoolmz_plugin_RecollectionModeMZ/main/RecollectionModeMZ/js/plugins/RecollectionModeMZ.js) をダウンロードし、```ツクールプロジェクト/js/plugins/```に配置します
 →このファイルがプラグイン本体です。
-2. RecollectionModeMZ/img/system/RecollectionModeMZData.jsonをダウンロードし、```ツクールプロジェクト/img/system/```に配置します
+2. [RecollectionModeMZ/img/system/RecollectionModeMZData.json](https://raw.githubusercontent.com/rinne-grid/tkoolmz_plugin_RecollectionModeMZ/main/RecollectionModeMZ/img/system/RecollectionModeMZData.json) をダウンロードし、```ツクールプロジェクト/img/system/```に配置します
 →このファイルは回想情報を定義するファイルです。
 
 3. プラグイン管理で、RecollectionModeMZ.jsを有効にします
