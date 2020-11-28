@@ -110,7 +110,7 @@ Githubの右上付近にある[Code] ->[Download ZIP]より、ファイルをダ
     * 下記画像のようにコモンイベントの1番目に、回想用イベントを作成します。ここではa.pngとb.pngを画面に表示します
     ![スクリーンショット](http://www.rinsymbol.sakura.ne.jp/tkool/mz/github_images/recollection_mode_exp_common_event.png)
 
-    * 【！重要！】回想用のコモンイベントの一番最後の行に、「プラグインコマンド」として下記のコマンド「回想に戻る」を指定します
+    * 【！重要！】回想用のコモンイベントの一番最後の行に、「プラグインコマンド」として下記のコマンド「回想に戻る」を指定します  
     ![スクリーンショット](http://www.rinsymbol.sakura.ne.jp/tkool/mz/github_images/recollection_mode_plugin_add_script.png)
 
 11. [8]で指定したスイッチをONにするイベントを作成します
@@ -197,7 +197,7 @@ Githubの右上付近にある[Code] ->[Download ZIP]より、ファイルをダ
 
 * Q01.エラーについて TypeError Cannot read property 'forEach' of null　こんなエラーが発生して動きません
     
-   回想情報ファイル(RecollectionModeMZData.json)の一番最後の}(波括弧)のあとに、,(カンマ)が指定されている可能性があります。もしくは回想情報ファイルのJSONが適切でない場合があります。サンプルファイルをご確認ください。
+   回想情報ファイル(RecollectionModeMZData.json)の一番最後の}(波括弧)のあとに、,(カンマ)が指定されている可能性があります。もしくは回想情報ファイルのJSONが適切でない場合があります。[サンプルファイル](https://raw.githubusercontent.com/rinne-grid/tkoolmz_plugin_RecollectionModeMZ/main/RecollectionModeMZ/img/system/RecollectionModeMZData.json) をご確認ください。
 
 
 ### 作者について
