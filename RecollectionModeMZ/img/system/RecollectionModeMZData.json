@@ -1,0 +1,45 @@
+[
+    {
+        "title": "回想シーン1",
+        "pictures": ["room1", "room2"],
+        "common_event_id": 1,
+        "switch_id": 1,
+        "thumbnail": "room1_thumbnail"
+    },
+    {
+        "title": "回想シーン2",
+        "pictures": ["background1_22", "background1_24"],
+        "common_event_id": 2,
+        "switch_id": 2
+    },
+    {
+        "title": "回想シーン3",
+        "pictures": ["background1_29"],
+        "common_event_id": 3,
+        "switch_id": 3
+    },
+    {
+        "title": "回想シーン4",
+        "pictures": ["background1_30"],
+        "common_event_id": 4,
+        "switch_id": 4
+    },
+    {
+        "title": "回想シーン5",
+        "pictures": ["background1_39", "background1_40"],
+        "common_event_id": 5,
+        "switch_id": 5
+    },
+    {
+        "title": "回想シーン6",
+        "pictures": ["background1_41"],
+        "common_event_id": 6,
+        "switch_id": 6
+    },
+    {
+        "title": "回想シーン7",
+        "pictures": ["background1_42"],
+        "common_event_id": 7,
+        "switch_id": 7
+    }
+]
